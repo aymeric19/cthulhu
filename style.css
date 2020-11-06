@@ -1,0 +1,93 @@
+body{
+      background-image: url("image/cthulhu-bateau.jpg");
+}
+#container{
+    width:400px;
+    margin: auto;
+    margin-top:10%;
+    margin-bottom:10%;
+}
+/* Bordered form */
+form,p {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #00CCCB;
+    border-radius:3px;
+    background: ;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+#container h1{
+    width: ;
+    margin: 5%;
+    padding-bottom: 10px;
+    color: white;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid ;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+input[type=submit]{
+    background-color: #00CCCB;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: #00CCCB;
+    border: 1px solid #00CCCB;
+}
+#container b{
+    color: white;
+}
+
+p
+{
+    color: white;
+     float: left;
+}
+span
+{
+    color: white;
+    text-align: right;
+}
+img
+{
+display:flex;
+margin-RIGHT: 150%;
+overflow:hidden;
+    -webkit-border-radius:400px;
+    -moz-border-radius:400px;
+    border-radius:400px;
+    width:400px;
+    height:400px;
+    background-color: #00CCCB;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+h2,a
+{
+    background-color: #00CCCB;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
